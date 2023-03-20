@@ -1,6 +1,6 @@
 baseURL: "https://arkalim.org"
 languageCode: en-us
-title: Abdur Rahman
+title: Mayank Bondre
 theme: PaperMod
 
 menu:
@@ -9,6 +9,10 @@ menu:
       name: Home
       url: /
       weight: 10
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 40
     - identifier: blog
       name: Blog
       url: /blog
@@ -17,10 +21,6 @@ menu:
       name: Projects
       url: /projects
       weight: 30
-    - identifier: experience
-      name: Experience
-      url: /experience
-      weight: 40
     - identifier: search
       name: Search
       url: /search
@@ -48,14 +48,14 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: "Hi 👋, I'm Abdur, an [**MSc in Applied Computing**](https://mscac.utoronto.ca/) student at the **University of Toronto**. I'm passionate about **Backend**, **Cloud** and **DevOps**, and I'm also an AWS Certified Solutions Architect. Along with my grad studies, I've been working as a **DevOps Intern** at [**16Bit.ai**](https://www.16bit.ai), a MedTech startup based in Toronto 🇨🇦. Before joining the MScAC program, I worked as a **Backend Engineer** at [**BuyerAssist.io**](https://buyerassist.io/), a B2B SaaS startup based in India 🇮🇳. When I'm free, I make YouTube 🎬 videos on career, higher education & productivity"
+    title: "Mayank Bondre"
+    subtitle: "Hi 👋, I'm Mayank, Open Source Enthusiast, Full Stack Developer"
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
-    # buttons:
-    #   - name: Resume
-    #     url: ""
+    buttons:
+      - name: Resume
+        url: ""
 
   # List View
   hideDescriptionInList: false
@@ -67,13 +67,11 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:makbond0902@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/mayank-bondre-11a522223/"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/mak2002"
     - name: "cv"
       url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
 
