@@ -9,7 +9,7 @@ weight: 201
 #     image: "/projects/obsidian-publish-github-action/cover.jpg"
 ---
 
-### [GitHub Link](https://github.com/mak2002/DevQnA)
+### 🔗 [GitHub](https://github.com/mak2002/DevQnA)
 
 ## Intro
 DevQnA is a Stack Overflow clone built using  built using the **atomic design pattern** in TypeScript, React, NodeJS, and Sequelize. It aims to replicate the core functionality of the popular Q&A platform Stack Overflow, allowing users to post questions, provide answers, and vote on the quality of content. 
@@ -20,9 +20,8 @@ In addition to React and atomic design, the application also utilizes controller
 ## Technologies
 
 ### Front-End:
-- TypeScript
-- NodeJS
-- TailwindCSS
+- React (TypeScript)
+- Materialize
 
 ### Back-End
 - ExpressJS(NodeJS)
